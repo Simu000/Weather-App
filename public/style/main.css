@@ -198,4 +198,7 @@ body {
   .search-container input {
     width: 100%;
   }
+  body{
+    overflow-y: scroll;
+  }
 }
